@@ -1,6 +1,6 @@
 # Hello, I'm [Song Mingeun]! 👋
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile&bg=blue&fg=white)
 
 ## 🚀 About Me
 I'm a versatile software developer with a passion for creating and maintaining high-quality applications. I excel in multiple programming languages and frameworks, with a strong focus on both front-end and back-end projects.
@@ -34,4 +34,4 @@ I'm a versatile software developer with a passion for creating and maintaining h
 
 ---
 
-![Footer Image](https://via.placeholder.com/1000x100.png?text=Thanks+for+visiting+my+profile!)
+![Footer Image](https://via.placeholder.com/1000x100.png?text=Thanks+for+visiting+my+profile!&bg=blue&fg=white)
