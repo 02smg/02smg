@@ -6,7 +6,7 @@ I'm a versatile software developer with a passion for creating and maintaining h
 ### 💼 Professional Experience
 - Currently operating **THE ALPHA**, a company dedicated to innovative software solutions.
 - Developing and maintaining an application used by 30,000 users.
-- Running a [study blog],with over 600,000 visits. to share knowledge and experiences in software development.
+- Running a study blog, with over 600,000 visits. to share knowledge and experiences in software development.
 
 ## 🛠 Skills
 - **Languages:** Java, Kotlin, C, Python (Big Data Analysis)
