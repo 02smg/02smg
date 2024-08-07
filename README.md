@@ -9,7 +9,7 @@ I'm a versatile software developer with a passion for creating and maintaining h
 - Running a study blog, with over 600,000 visits. to share knowledge and experiences in software development.
 
 ## 🛠 Skills
-- **Languages:** Java, Kotlin, C, Python (Big Data Analysis)
+- **Languages:** Java, Kotlin, C, Python (Big Data Analysis), SQL, XQuery
 - **Frameworks:** React, Vue
 - **Expertise:** Application Development & Maintenance
 
@@ -17,9 +17,10 @@ I'm a versatile software developer with a passion for creating and maintaining h
 ![Skills Badge](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Skills Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Skills Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Skills Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Skills Badge](https://img.shields.io/badge/XQuery-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![Skills Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Skills Badge](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
 
 ## 📫 Contact
 - [Email](recthealpha@gmail.com)
